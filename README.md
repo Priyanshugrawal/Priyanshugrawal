@@ -2,8 +2,9 @@
 - 👀 I’m interested in electronics and coding
 - 🌱 I’m currently learning web devlopment
 - 💞️ I’m looking to collaborate on ......
-- 📫 How to reach me 
-- 😄 Pronouns: prestigous priyanshu
+- 📫 https://www.instagram.com/agg_prestigious03
+- https://www.linkedin.com/in/priyanshu-agrawal-83b268291
+- 😄 Pronouns: Prestigous Priyanshu
 - ⚡ Fun fact: Travelling is my best therepy 
 
 <!---
