@@ -1,13 +1,27 @@
-- 👋 Hi, I’m @Priyanshugrawal
-- 👀 I’m interested in electronics and coding
-- 🌱 I’m currently learning web devlopment
-- 💞️ I’m looking to collaborate on ......
-- 📫 https://www.instagram.com/agg_prestigious03
-- https://www.linkedin.com/in/priyanshu-agrawal-83b268291
-- 😄 Pronouns: Prestigous Priyanshu
-- ⚡ Fun fact: Travelling is my best therepy 
+# 💫 About Me:
+👋 <br>Hi, I’m Priyanshu Agrawal, a 2nd-year Computer Science Engineering student with a passion for building impactful tech solutions. I love turning ideas into code and enjoy exploring web development, cloud technologies, and cybersecurity.<br>🔧 I work with C/C++, HTML, CSS, JavaScript, and Git/GitHub, and I’ve been diving deeper into data structures, blockchain, and UI/UX design.<br><br>🚀 I’ve built projects like:<br><br>🌦️ A weather forecasting web app using OpenWeather APIs<br>🔐 A blockchain-based certificate generator and validator (HackIndia 2025)<br>🧩 Portfolio Builder<br>🎲 Random Quote Generator<br><br>🎯 I’ve participated in:<br><br>🛰️ NASA Space Apps Challenge 2024 (Virtual Hackathon)<br>💡 Smart India Hackathon 2024 (Nominee)<br>🛠️ HackIndia 2025 (National Level)<br><br>📚 I’m also certified in:<br><br>> C Programming (Udemy)<br>> Foundations of Cybersecurity (Coursera)<br>> Google Cloud AI & Prompt Engineering (Google)
 
-<!---
-Priyanshugrawal/Priyanshugrawal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br>
+
+  <img src="https://komarev.com/ghpvc/?username=Priyanshugrawal&style=flat&color=blue&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views Badge" />
+
+<br>
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+<br> 
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/agg_prestigious03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-agrawal-83b268291) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PriyanshuA54520) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aggrawalpriyanshu399@gmail.com) 
+<br>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat&logo=codeIgniter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=flat&logo=Meta&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)
+<br>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Priyanshugrawal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Priyanshugrawal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshugrawal&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
